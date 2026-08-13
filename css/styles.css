@@ -1,0 +1,53 @@
+html {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+	width: 650px;
+	margin: 0 auto;
+	background-color: rgb(160, 239, 242);
+	padding: 10px 20px;
+}
+#menu-home {
+	margin: 30px auto;
+	width: fit-content;
+	list-style-type: none;
+	line-height: 2;
+}
+
+.title {
+	margin-bottom: 20px;
+}
+
+.title,
+.description {
+	text-align: center;
+	font-style: italic;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 400px;
+}
+
+.home {
+	display: inline-block;
+	padding: 10px 20px;
+	border: 3px solid black;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+}
+
+h3 {
+	margin-top: 50px;
+}
+
+.menu,
+h3 {
+	color: rgb(0, 69, 118);
+}
+
+a {
+	color: inherit;
+}
